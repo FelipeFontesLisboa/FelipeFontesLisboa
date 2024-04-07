@@ -1,9 +1,4 @@
-Certainly! Below is an attractive README template for your personal GitHub profile based on front-end development:
-
----
-
 # Welcome to My GitHub Profile 👋
-
 
 ## 🚀 About Me
 
