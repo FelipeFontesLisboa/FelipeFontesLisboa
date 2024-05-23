@@ -15,13 +15,13 @@ Hello there! I'm [Felipe Fontes], a passionate front-end developer dedicated to 
 ## Let's Connect! 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-fontes-42a957281/)
-- [Website/Blog](link_to_your_website_or_blog)
 - [Twitter](link_to_your_twitter_profile)
 - [Email](your_email_address)
 
-<hr>
+
+## Visitors! 🌐
 ![Visitor Count](https://profile-counter.glitch.me/{FelipeFontesLisboa}/count.svg)
-<hr>
+
 
 
 ## Felipe Stats 📊
