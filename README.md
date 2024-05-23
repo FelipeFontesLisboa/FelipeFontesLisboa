@@ -19,8 +19,10 @@ Hello there! I'm [Felipe Fontes], a passionate front-end developer dedicated to 
 - [Twitter](link_to_your_twitter_profile)
 - [Email](your_email_address)
 
-
+<hr>
 ![Visitor Count](https://profile-counter.glitch.me/{FelipeFontesLisboa}/count.svg)
+<hr>
+
 
 ## Felipe Stats 📊
 
