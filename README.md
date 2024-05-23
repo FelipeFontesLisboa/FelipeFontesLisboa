@@ -19,14 +19,16 @@ Hello there! I'm [Felipe Fontes], a passionate front-end developer dedicated to 
 - [Twitter](link_to_your_twitter_profile)
 - [Email](your_email_address)
 
-curl https://profile-counter.glitch.me/{felipefonteslisboa}/count.svg
+
+![Visitor Count](https://profile-counter.glitch.me/{FelipeFontesLisboa}/count.svg)
+
 ## Felipe Stats 📊
 
-![Felipe Stats](https://github-readme-stats.vercel.app/api?username=FelipeFontes&show_icons=true&theme=radical)
+![Felipe Stats](https://github-readme-stats.vercel.app/api?username=FelipeFontesLisboa&show_icons=true&theme=radical)
 
 ## Top Languages 📈
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFontes&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFontesLisboa&layout=compact&theme=radical)
 
 ## Contribution 💡
 
