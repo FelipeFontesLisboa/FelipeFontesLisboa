@@ -1,13 +1,13 @@
-                                                                        # Welcome to My GitHub Profile 👋
+ # Welcome to My GitHub Profile 👋
 
-                                                                                ## 🚀 About Me
+## 🚀 About Me
 
 Hello there! I'm Felipe Fontes, a passionate front-end developer dedicated to crafting immersive and user-centric web experiences. With a keen eye for detail and a love for creativity, I strive to push the boundaries of what's possible in web development.
 
-                                                                                     ## My Toolbox 🛠️
+## My Toolbox 🛠️
 
-                                                                      - **Languages**: HTML5, CSS3, JavaScript (ES6+)
-                                                                            - **Frameworks/Libraries**: React.js.
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries**: React.js.
 - **CSS Preprocessors**: SASS, LESS
 - **UI Frameworks**: Bootstrap, Tailwind CSS
 - **Version Control**: Git, GitHub
