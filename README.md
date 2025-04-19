@@ -16,7 +16,7 @@ Hello there! I'm Felipe Fontes, a passionate front-end developer dedicated to cr
 
 - [Linkedin](https://www.linkedin.com/in/felipe-fontes-42a957281/)
 - [Whatsapp](https://api.whatsapp.com/message/WOU5ERCASA57H1?autoload=1&app_absent=0)
-- [Email](your_email_address)
+- [Email](felipefonteslisboa@gmail.com)
 
 
 ## Visitors! 🌐
